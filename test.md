@@ -18,3 +18,8 @@
 4.探索Alpha-Go —— AI是如何在围棋项目上打败人类的？
 阿里开发者社区：
 https://developer.aliyun.com/group/ai?spm=a2c6h.12873581.1364563.5.123d70caT9mXto#/?_k=47si0a
+
+物联网系统应用技术
+链接：https://pan.baidu.com/s/1ieMwb_xIvnXp9mX5_KbH1g 
+提取码：ir8e 
+ 
