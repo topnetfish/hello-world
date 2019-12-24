@@ -34,3 +34,6 @@ https://bbs.huaweicloud.com/forum/thread-17937-1-1.html
 Arduino项目开发——物联网应用---代码可以下载
 http://www.tup.tsinghua.edu.cn/booksCenter/book_08266401.html
 
+机器学习入门书籍
+ 链接：https://pan.baidu.com/s/1A7HYuQE6x19HG9sSR9rfBA 
+提取码：2qtv 
